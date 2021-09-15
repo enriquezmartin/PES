@@ -23,12 +23,8 @@ $ jupyter lab
 ```
 
 Documentación de las versiones instaladas:
-[matplotlib==2.2.3](https://matplotlib.org/2.2.3/)
-
-[numpy==1.16.6](https://docs.scipy.org/doc/numpy-1.16.1/reference/)
-
-[scipy==1.1.0](https://docs.scipy.org/doc/scipy-1.1.0/reference/)
-
-[opencv==2.4.13](https://docs.opencv.org/2.4/)
-
-[ipywidgets==7.6.4](https://ipywidgets.readthedocs.io/en/7.6.4/)
+- [matplotlib==2.2.3](https://matplotlib.org/2.2.3/)
+- [numpy==1.16.6](https://docs.scipy.org/doc/numpy-1.16.1/reference/)
+- [scipy==1.1.0](https://docs.scipy.org/doc/scipy-1.1.0/reference/)
+- [opencv==2.4.13](https://docs.opencv.org/2.4/)
+- [ipywidgets==7.6.4](https://ipywidgets.readthedocs.io/en/7.6.4/)
