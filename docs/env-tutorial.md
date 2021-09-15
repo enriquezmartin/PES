@@ -1,7 +1,7 @@
 Descargar [Python 2.7.13](https://www.python.org/downloads/release/python-2713/) (p ej: `Windowsx86-64 MSI Installer`)
 
 Instalar teniendo en cuenta:
-1. La ruta de instalación sea C:\Python27
+1. La ruta de instalación sea `C:\Python27`
 2. Chequear la opción de Add Python to PATH
 
 Descargar el [entorno preconfigurado](https://drive.google.com/file/d/1kOefkwJMPH0ITv2jqcJI8_D1ZfNMFQTG/view?usp=sharing)
