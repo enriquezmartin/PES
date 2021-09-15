@@ -1,4 +1,4 @@
-Descargar [Python 2.7.13](https://www.python.org/downloads/release/python-2713/) (p ej: `Windowsx86-64 MSI Installer`)
+Descargar [Python 2.7.13](https://www.python.org/downloads/release/python-2713/) (p ej: `Windows x86-64 MSI installer`)
 
 Instalar teniendo en cuenta:
 1. La ruta de instalación sea `C:\Python27`
