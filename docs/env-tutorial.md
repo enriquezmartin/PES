@@ -31,25 +31,33 @@ C:\pes\activar_entorno.bat
 ```
 ![Directorio resultante](https://github.com/enriquezmartin/PES/blob/master/docs/Directorio%20resultante.png?raw=true)
 
-## Ejecución del Jupyter Notebook
+## [Jupyter Notebook](https://jupyter.org/)
 Ejecutar el archivo `C:\pes\activar_entorno.bat`
 
-En la línea de comandos que se abre ejecutar:
+En la línea de comandos que se abre, ejecutar:
 ```bash
 jupyter lab
 ```
 Como se muestra en la figura:
 ![Jupyter lab](https://github.com/enriquezmartin/PES/blob/master/docs/Jupyter%20lab.png)
 
-Luego de esperar unos segundos levantará el notebook:
+Luego de esperar unos segundos levantará el Jupyter:
 ![Jupyter Running](https://github.com/enriquezmartin/PES/blob/master/docs/Jupyter%20Running.png)
 
 Y en el navegador:
 ![Jupyter on browser](https://github.com/enriquezmartin/PES/blob/master/docs/Jupyter%20on%20browser.png)
 
-Ahora ya está listo el notebook para comenzar a codear
+Ya está todo listo para ejecutar los notebooks
 
-## Links a la documentación de las bibliotecas utilizadas
+Los archivos que se pueden ejecutar tienen la extensión [.ipynb](https://fileinfo.com/extension/ipynb)
+
+Cada celda se puede ejecutar clickeando el botón `Play`
+![Jupyter on browser Play](https://github.com/enriquezmartin/PES/blob/master/docs/Jupyter%20on%20browser%20Play.png)
+
+### __¡A codear!__
+
+
+## Enlaces a la documentación de las bibliotecas utilizadas
 - [matplotlib==2.2.3](https://matplotlib.org/2.2.3/)
 - [numpy==1.16.6](https://docs.scipy.org/doc/numpy-1.16.1/reference/)
 - [scipy==1.1.0](https://docs.scipy.org/doc/scipy-1.1.0/reference/)
